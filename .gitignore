@@ -24,3 +24,5 @@ coverage/
 # cypress
 # tests/e2e/integration/examples
 tests/e2e/integrations/examples/
+
+.vercel
